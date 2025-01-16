@@ -25,7 +25,7 @@ This GitHub repository serves as a comprehensive collection of U.S. presidential
 
 Although the data in this repository is extensive, it is not considered the authoritative source. Researchers are encouraged to verify specific results from primary data sources when needed.
 
-Additionally, the repository includes tools for visualizing presidential election results. Tony McGovern developed both an [interactive map](https://tonmcg.github.io/US_County_Level_Election_Results_08-24) and [static maps](https://github.com/tonmcg/US_County_Level_Election_Results_08-24?tab=readme-ov-file#dot-density-map) of the 2024 presidential election results. Instructions to create these static maps are also provided, making it easier for academics to analyze and present the data in a visual format.
+Additionally, the repository includes tools for visualizing presidential election results. Tony McGovern developed both an [interactive map](https://tonmcg.github.io/US_County_Level_Election_Results_08-24) and [static maps](https://github.com/tonmcg/US_County_Level_Election_Results_08-24?tab=readme-ov-file#visualizing-results-with-a-dot-density-map) of the 2024 presidential election results. Instructions to create these static maps are also provided, making it easier for academics to analyze and present the data in a visual format.
 
 ## Visualizing the 2024 Presidential Election Results
 
