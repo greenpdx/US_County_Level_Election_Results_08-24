@@ -5,6 +5,13 @@
 ## Summary
 This GitHub repository provides county-level U.S. presidential election results for the years 2008, 2012, 2016, 2020, and 2024. The data comes from various reputable sources, including The Guardian, Townhall.com, Fox News, Politico, and the New York Times. While the results are exhaustive, they are not authoritative. The repository compiles these results to support academic research and analysis, offering both interactive and static visualizations of the election data.
 
+## Support This Project
+This project aims to make U.S. county-level election results more accessible and transparent. If you find this work valuable, consider supporting me:
+
+- **[Sponsor on GitHub](https://github.com/sponsors/tonmcg)**
+
+Your contributions will help cover data acquisition, hosting, and the development of new features!
+
 ## Table of Contents
 - [Compiling Presidential Election Results](#compiling-presidential-election-results)
 - [Visualizing the 2024 Presidential Election Results](#visualizing-the-2024-presidential-election-results)
