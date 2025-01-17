@@ -1,6 +1,6 @@
 # United States General Election Presidential Results by District and County from 2008 to 2024
 
-[![DOI](https://zenodo.org/badge/73478714.svg)](https://zenodo.org/badge/latestdoi/73478714)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14223604.svg)](https://doi.org/10.5281/zenodo.14223604)
 
 ## Summary
 This GitHub repository provides county-level U.S. presidential election results for the years 2008, 2012, 2016, 2020, and 2024. The data comes from various reputable sources, including The Guardian, Townhall.com, Fox News, Politico, and the New York Times. While the results are exhaustive, they are not authoritative. The repository compiles these results to support academic research and analysis, offering both interactive and static visualizations of the election data.
