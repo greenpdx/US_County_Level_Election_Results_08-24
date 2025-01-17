@@ -1,4 +1,4 @@
-# United States General Election Presidential Results by District and County from 2008 to 2024
+# United States General Election Presidential Results by District, Ward, or County from 2008 to 2024
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14223604.svg)](https://doi.org/10.5281/zenodo.14223604)
 
