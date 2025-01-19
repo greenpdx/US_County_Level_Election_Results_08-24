@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14223604.svg)](https://doi.org/10.5281/zenodo.14223604)
 
 [![US Election Results 2024](https://github.com/user-attachments/assets/ac710c22-0a3f-4bc6-89b6-ac5140e36015)](https://tonmcg.github.io/US_County_Level_Election_Results_08-24/)
-*Figure 1: Interactive map of  United States General Election Presidential Results by District, Ward, or County from 2008 to 2024.*
+*Figure 1: Interactive map of 2024 United States General Election Presidential Results by District, Ward, or County.*
 
 ## Summary
 This GitHub repository provides county-level U.S. presidential election results for the years 2008, 2012, 2016, 2020, and 2024. The data comes from various reputable sources, including The Guardian, Townhall.com, Fox News, Politico, and the New York Times. While the results are exhaustive, they are not authoritative. The repository compiles these results to support academic research and analysis, offering both interactive and static visualizations of the election data.
